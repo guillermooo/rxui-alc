@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App", "App.csproj", "{C82FDE6F-A4FF-49C3-9458-91F8A0DBBBCD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "App", "App.csproj", "{C82FDE6F-A4FF-49C3-9458-91F8A0DBBBCD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluginSdk", "..\PluginSdk\PluginSdk.csproj", "{E5F402B5-5D2F-4653-A449-56F88B8FEA3B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PluginSdk", "..\PluginSdk\PluginSdk.csproj", "{E5F402B5-5D2F-4653-A449-56F88B8FEA3B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RxUiPlugin", "..\RxUiPlugin\RxUiPlugin.csproj", "{199223F6-C8B3-4487-B419-7CA321B29B4C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RxUiPlugin", "..\RxUiPlugin\RxUiPlugin.csproj", "{199223F6-C8B3-4487-B419-7CA321B29B4C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
